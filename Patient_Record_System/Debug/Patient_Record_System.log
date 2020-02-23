@@ -1,0 +1,3 @@
+﻿  Patient_Record_System.cpp
+c:\users\oguzhan\desktop\patient_record_system\patient_record_system\patient_record_system.cpp(40): warning C4101: 'Fee': yerel değişken başvurusu kaldırıldı
+  Patient_Record_System.vcxproj -> C:\Users\Oguzhan\Desktop\Patient_Record_System\Debug\Patient_Record_System.exe
